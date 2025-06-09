@@ -6,6 +6,10 @@ We develop models for collective motion, with a focus on the Vicsek model and th
 File 'vicsek.py' and 'dorsogna.py' contain the generator of each model. 
 
 
-Please use the colab link to fing the code example:
+Please use the colab link to find the code example:
 
 https://colab.research.google.com/drive/1WRPKVyUEJ5zCn2nXYgCH-NZOMGOcOJlJ?usp=sharing
+
+If you want to cite: 
+
+https://doi.org/10.1103/PhysRevE.109.014403
